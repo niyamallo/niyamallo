@@ -1,6 +1,7 @@
 ### 프로필 공사중!
 
 01.04.2023 ~ SSAFY(SAMSUNG SW ACADEMY FOR YOUTH) 교육 이수중
+
 07.07.2023 SSAFY Race(자율주행 레이싱대회) 1위
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyamallo&layout=compact&theme=dark)
