@@ -1,8 +1,8 @@
 01.04.2023 ~ SSAFY(SAMSUNG SW ACADEMY FOR YOUTH) 교육 이수중
 
-07.07.2023 SSAFY RACE(자율주행 레이싱대회) 1위
+🏆 07.07.2023 SSAFY RACE(자율주행 레이싱대회) 1위
 
-07.10.2023 ~ 08.23.2023 SSAFY 공통프로젝트 우수프로젝트 수상(VR기반 부산특화 랜선 투어 서비스 '부산와Vr')
+🏆 07.10.2023 ~ 08.23.2023 SSAFY 공통프로젝트 우수프로젝트 수상(VR기반 부산특화 랜선 투어 서비스 '부산와Vr')
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyamallo&layout=compact&theme=dark)
 
