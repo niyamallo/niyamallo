@@ -4,6 +4,8 @@
 
 🏆 07.10.2023 ~ 08.23.2023 SSAFY 공통프로젝트 우수프로젝트 수상(VR기반 부산특화 랜선 투어 서비스 '부산와Vr')
 
+🏆 08.21.2023 ~ 10.12.2023 SSAFY 특화프로젝트 우수프로젝트 수상(어린이들을 위한 메타버스 사물술래잡기 게임 'CatchTales')
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyamallo&layout=compact&theme=dark)
 
 <!--
