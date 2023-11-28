@@ -6,6 +6,8 @@
 
 🏆 08.21.2023 ~ 10.12.2023 SSAFY 특화프로젝트 우수프로젝트 수상(어린이들을 위한 메타버스 사물술래잡기 게임 'CatchTales')
 
+10.10.2023 ~ 11.17.2023 SSAFY 자율프로젝트 기업연계프로젝트((주)코코넛사일로) 라오스 택시배차 서비스 어드민페이지
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyamallo&layout=compact&theme=dark)
 
 <!--
