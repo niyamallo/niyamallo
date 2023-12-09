@@ -8,6 +8,8 @@
 
 10.10.2023 ~ 11.17.2023 SSAFY 자율프로젝트 기업연계프로젝트((주)코코넛사일로) 라오스 택시배차 서비스 어드민페이지 개발
 
+🏆 12.05.2023 SSAFY 9기 우수포트폴리오 수상
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyamallo&layout=compact&theme=dark)
 
 <!--
