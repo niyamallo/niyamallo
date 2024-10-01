@@ -1,4 +1,4 @@
-JavaScript 풀스택 개발자입니다!
+Java 백엔드 개발자입니다!
 
 01.04.2023 ~ 12.31.2023 SSAFY(SAMSUNG SW ACADEMY FOR YOUTH) 9기 수료
 
